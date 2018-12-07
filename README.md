@@ -1,2 +1,4 @@
 # hello-world
-This is tutorial project
+
+Hi,
+I'm a Web developer.
